@@ -1,0 +1,23 @@
+
+:root{
+  --primary-color:'#3D5A73';
+  --secondary-color:'#2F3D40';
+  --custom-primary-color:'#455559';
+  --custom-secondary-color:'#28403D';
+  --custom-bit-dark:'#182625';
+}
+
+body {
+ /* font-family: 'Titillium Web', sans-serif;  */
+ /* font-family: 'Titillium Web', sans-; */
+ /* font-family: 'Kirang Haerang', cursive; */
+}
+.para{
+  /* font-family: 'Titillium Web', sans-serif; */
+
+}
+.span[role=button] {
+    padding: 15px;
+    display: inline-block;
+    line-height: 20px;
+  }
