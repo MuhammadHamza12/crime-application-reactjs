@@ -243,7 +243,9 @@ class Login extends Component {
             <Button isLoading={isLoading} type="submit">
               Login
             </Button>
+            <span className="link" >
               <Link className='link' to="/password_forget">Forget password?</Link>
+            </span>
           </form>
         </FormSection>
       </MainContainer>
